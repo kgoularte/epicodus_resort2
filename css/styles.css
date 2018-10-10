@@ -1,3 +1,37 @@
 h3 {
-  color: blue;
+  font-style: italic;
+  text-align: center;
+  color: red;
+  font-size: 50px;
+  text-shadow: 10px 10px 50px white;
+}
+
+h2{
+  color: ;
+  font-size: 40px;
+  text-shadow: 10px 10px 50px blue;
+}
+
+ul{
+  color: green;
+}
+p {
+  color: black;
+  margin: 55px;
+  font-weight: bold;
+  font-size: 30px;
+  text-shadow: 10px 10px 50px blue;
+}
+
+body {
+  background-image: url(https://media.istockphoto.com/photos/tropical-background-with-monstera-philodendron-and-palm-leaves-in-picture-id680545238);
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  box-shadow: 10px 10px 60px black;
+}
+a {
+  color: hotpink;
 }
