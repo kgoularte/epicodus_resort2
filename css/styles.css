@@ -24,7 +24,10 @@ p {
 }
 
 body {
-  background-image: url(https://media.istockphoto.com/photos/tropical-background-with-monstera-philodendron-and-palm-leaves-in-picture-id680545238);
+  background-image: url(https://freerangestock.com/sample/39488/tropical-leaves-background-with-copyspace.jpg);
+  background-size: cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
   font-family: sans-serif;
   text-align: center;
 }
